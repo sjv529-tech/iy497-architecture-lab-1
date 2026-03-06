@@ -16,7 +16,7 @@ Which registers hold:
 
 -loop counter- rbx, current element- none (as we are not working with lists), accumulated result- rax
 
-• If you step through the assembly, how many instructions does it take to perform one
+If you step through the assembly, how many instructions does it take to perform one
 “iteration” of the loop?
 
 -5 instructions
